@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Broccoli plugin for Rucksack - A little bag of CSS superpowers",
   "license": "MIT",
-  "repository": "seaneking/broccoli-rucksack",
+  "repository": "simplaio/broccoli-rucksack",
   "author": {
     "name": "Sean King",
     "email": "sean@simpla.io",

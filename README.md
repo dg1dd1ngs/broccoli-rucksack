@@ -27,8 +27,8 @@ MIT © [Sean King](https://twitter.com/seaneking)
 
 [npm-image]: https://badge.fury.io/js/broccoli-rucksack.svg
 [npm-url]: https://npmjs.org/package/broccoli-rucksack
-[travis-image]: https://travis-ci.org/seaneking/broccoli-rucksack.svg?branch=master
-[travis-url]: https://travis-ci.org/seaneking/broccoli-rucksack
-[daviddm-image]: https://david-dm.org/seaneking/broccoli-rucksack.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/seaneking/broccoli-rucksack
+[travis-image]: https://travis-ci.org/simplaio/broccoli-rucksack.svg?branch=master
+[travis-url]: https://travis-ci.org/simplaio/broccoli-rucksack
+[daviddm-image]: https://david-dm.org/simplaio/broccoli-rucksack.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/simplaio/broccoli-rucksack
 [rucksack]: https://github.com/simplaio/rucksack
