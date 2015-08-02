@@ -1,0 +1,36 @@
+{
+  "name": "broccoli-rucksack",
+  "version": "0.1.0",
+  "description": "Broccoli plugin for Rucksack - A little bag of CSS superpowers",
+  "license": "MIT",
+  "repository": "seaneking/broccoli-rucksack",
+  "author": {
+    "name": "Sean King",
+    "email": "sean@simpla.io",
+    "url": "https://twitter.com/seaneking"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "broccoli-plugin",
+    "css",
+    "framework",
+    "rucksack",
+    "postcss"
+  ],
+  "dependencies": {
+    "broccoli-filter": "~0.1.12",
+    "rucksack-css": "^0.4.1"
+  },
+  "devDependencies": {
+    "broccoli": "~0.15.3",
+    "mocha": "*"
+  }
+}
