@@ -1,6 +1,6 @@
 {
   "name": "broccoli-rucksack",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Broccoli plugin for Rucksack - A little bag of CSS superpowers",
   "license": "MIT",
   "repository": "simplaio/broccoli-rucksack",
@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "~0.1.12",
-    "rucksack-css": "^0.4.1"
+    "rucksack-css": "latest"
   },
   "devDependencies": {
     "broccoli": "~0.15.3",
