@@ -1,6 +1,6 @@
 {
   "name": "broccoli-rucksack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Broccoli plugin for Rucksack - A little bag of CSS superpowers",
   "license": "MIT",
   "repository": "simplaio/broccoli-rucksack",
