@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "~0.1.12",
-    "rucksack-css": "^0.4.1"
+    "rucksack-css": "*"
   },
   "devDependencies": {
     "broccoli": "~0.15.3",
