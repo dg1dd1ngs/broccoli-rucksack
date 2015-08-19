@@ -3,12 +3,12 @@
 var Filter = require('broccoli-filter'),
 		rucksack = require('rucksack-css');
 
-function RucksackFilter(inputTree, options) {
+function RucksackFilter(inputNode, options) {
 	if (!(this instanceof RucksackFilter)) {
-		return new RucksackFilter(inputTree, options);
+		return new RucksackFilter(inputNode, options);
 	}
 
-	this.inputTree = inputTree;
+	Filter.call(this, inputNode);
 	this.options = options || {};
 }
 
