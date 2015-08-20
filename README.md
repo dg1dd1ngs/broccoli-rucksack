@@ -3,6 +3,8 @@
 
 Broccoli plugin for [Rucksack][rucksack] - a little bag of CSS superpowers.
 
+Inspired by [broccoli-cssnano][cssnano].
+
 ### Install
 
 Install via [npm][npm-url]
@@ -20,10 +22,6 @@ var rucksack = require('broccoli-rucksack');
 tree = rucksack(tree, [options]);
 ```
 --
-
-### License
-
-MIT © [Sean King](https://twitter.com/seaneking)
 
 [npm-image]: https://badge.fury.io/js/broccoli-rucksack.svg
 [npm-url]: https://npmjs.org/package/broccoli-rucksack
